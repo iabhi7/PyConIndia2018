@@ -56,7 +56,7 @@ This tutorial will require recent installations of
 
 - [NumPy](http://www.numpy.org)
 - [SciPy](http://www.scipy.org) ```conda install -c anaconda scipy```
-- [PyTorch](https://anaconda.org/soumith/pytorch) ```conda install -c soumith pytorch```
+- [PyTorch](https://anaconda.org/soumith/pytorch) ```conda install pytorch torchvision -c pytorch```
 - [imageio](https://anaconda.org/conda-forge/imageio) ```conda install -c conda-forge imageio``` ```conda install -c conda-forge/label/gcc7 imageio ```
 - [SimpleITK](https://anaconda.org/simpleitk/simpleitk) ```conda install -c simpleitk simpleitk ``` ```conda install -c simpleitk/label/dev simpleitk```
 - [Scikit Image](https://anaconda.org/anaconda/scikit-image) ```conda install -c anaconda scikit-image ```
@@ -66,6 +66,7 @@ This tutorial will require recent installations of
 - [Jupyter Notebook](http://jupyter.org)
 
 
+Installation of PyTorch will take time and that is the main Library used in the workshop so its highly recommended to install it before you attend the workshop
 The last one is important, you should be able to type:
 
     jupyter notebook

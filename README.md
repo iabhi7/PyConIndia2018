@@ -56,14 +56,14 @@ This tutorial will require recent installations of
 
 - [NumPy](http://www.numpy.org)
 - [SciPy](http://www.scipy.org) ```conda install -c anaconda scipy```
-- [matplotlib](http://matplotlib.org)
 - [PyTorch](https://anaconda.org/soumith/pytorch) ```conda install -c soumith pytorch```
 - [imageio](https://anaconda.org/conda-forge/imageio) ```conda install -c conda-forge imageio``` ```conda install -c conda-forge/label/gcc7 imageio ```
-- [IPython](http://ipython.readthedocs.org/en/stable/)
 - [SimpleITK](https://anaconda.org/simpleitk/simpleitk) ```conda install -c simpleitk simpleitk ``` ```conda install -c simpleitk/label/dev simpleitk```
-- [Jupyter Notebook](http://jupyter.org)
 - [Scikit Image](https://anaconda.org/anaconda/scikit-image) ```conda install -c anaconda scikit-image ```
 - [Progressbar](https://anaconda.org/anaconda/progressbar) ```conda install -c anaconda progressbar ```
+- [matplotlib](http://matplotlib.org)
+- [IPython](http://ipython.readthedocs.org/en/stable/)
+- [Jupyter Notebook](http://jupyter.org)
 
 
 The last one is important, you should be able to type:
